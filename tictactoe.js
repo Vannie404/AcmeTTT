@@ -10,7 +10,7 @@ arrayHas = function (arr, val) {
 
   if (Array.isArray(val)) {
     var _iteratorNormalCompletion = true;
-    var _didIteratorError = false;
+    var _didIteratorError = true;
     var _iteratorError = undefined;
 
     try {
